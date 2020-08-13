@@ -8,7 +8,6 @@ public class UserListMethods {
    private final static String firstCity = "Dnipro";
     private final static String secondCity = "Lviv";
     private final static String thirdCity = "Kyiv";
-    private final static int count = 3;
     private final static int midAge = 40;
     private final static int highAge = 50;
 
